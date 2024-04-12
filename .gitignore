@@ -1,0 +1,34 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.pycachefile
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+.ipynb_checkpoints/*
+*.ipynb_checkpoints/*
+
+# Virtual Environment
+venv/
+env/
+*.env
+.python-version
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
